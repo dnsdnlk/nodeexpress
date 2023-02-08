@@ -1,0 +1,21 @@
+{
+  "name": "ncexpress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "123"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "me",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
